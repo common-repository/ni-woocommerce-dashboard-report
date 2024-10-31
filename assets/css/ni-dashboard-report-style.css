@@ -1,0 +1,15 @@
+/* CSS Document */
+.ni_dashboard_report_table {width:100%;  border:1px solid #6A1B9A;    border-collapse:collapse; border-bottom: 1px solid #CE93D8; }
+.ni_dashboard_report_table th, .ni_dashboard_report_table td {
+    border-bottom: 1px solid #CE93D8;
+	text-transform:uppercase;
+	height: 30px;
+	padding: 2px;
+    text-align: left;
+}
+.ni_dashboard_report_table thead {  border-bottom:5px solid #6A1B9A; background:#CE93D8}
+/*.ni_dashboard_report_table th, td {
+    border-bottom: 1px solid #ddd;
+	line-height:30px;
+	font-size:14px;
+}*/
